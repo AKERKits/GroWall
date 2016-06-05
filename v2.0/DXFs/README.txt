@@ -1,5 +1,5 @@
-groWall_6_12.dxf
-was generated with these parameters :
+growall_6_12.dxf was generated with these parameters :
+
 
 "tool_diameter"=6
 "material_thickness"=12
@@ -11,8 +11,8 @@ was generated with these parameters :
 
 -------------------------------------------------------------
 
-groWall_6_18.dxf
-was generated with these parameters :
+growall_6_18.dxf was generated with these parameters :
+
 
 "tool_diameter"=6
 "material_thickness"=18
@@ -24,8 +24,7 @@ was generated with these parameters :
 
 -------------------------------------------------------------
 
-groWall_8_12.dxf
-was generated with these parameters :
+growall_8_12.dxf was generated with these parameters :
 
 
 "tool_diameter"=8
