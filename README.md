@@ -8,7 +8,7 @@ The **AKER GroWall** is a vertical garden designed to be fabricated using a CNC 
 
 *Source Files*
 
-We model each kit in SolidWorks. To access the parametric source files, download the *AKER - Hexagon Planter - v1.0.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
+We model each kit in SolidWorks. To access the parametric source files, download the *AKER - GroWall - v1.0.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
 
 The **GroWall** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
