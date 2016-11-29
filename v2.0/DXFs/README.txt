@@ -1,3 +1,5 @@
+Design turned parametric by Gregoire Durrens for Aker.
+
 growall_6_12.dxf was generated with these parameters :
 
 
